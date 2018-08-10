@@ -3,6 +3,7 @@ This is my collage final project me and my class mate made.
 
 WASD to move
 Space to jump
+Shift to run
 Left click to attack
 Right click to dash
 
