@@ -1,5 +1,6 @@
 # 100Hits
 This is my collage final project me and my class mate made.
+To play go to the ThirdPersonContolOrbitCam scene in the scene folder
 
 WASD to move
 Space to jump
