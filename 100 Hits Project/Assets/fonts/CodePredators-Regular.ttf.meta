@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d7a1e04fdd8e5f54884b9034ca959c28
+timeCreated: 1493704234
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Code Predators
+  fontNames:
+  - Code Predators
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5ed286dcc5dd20c4dbc90dfb024e1b9e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
